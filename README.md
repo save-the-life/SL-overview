@@ -1,3 +1,5 @@
+> **Archived (2026-09-12).** This repository dates from the 2024 ICP-era prototype and is no longer maintained. The current project is operated by **SL Labs Pte. Ltd.** — see https://www.savethelife.io and the audited token contracts at https://github.com/save-the-life/SL_TOKEN.
+
 # SL-overview
 <br/>
 <p align="center"><img width="751" alt="SL Logo" src="https://github.com/safethelife/SL-overview/assets/32187230/9f2ae071-5b0d-4ffd-a045-e5d363bc361a"></p>
