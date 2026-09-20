@@ -10,3 +10,9 @@ This repository is an archived 2024 prototype and is **no longer maintained**. I
 - Website: https://www.savethelife.io
 - Whitepaper: https://www.savethelife.io/whitepaper.pdf
 - $SL token and vesting contracts (audited by QuillAudits, Aug 2026): https://github.com/save-the-life/SL_TOKEN
+
+## Current architecture
+
+![SL Protocol system architecture](https://raw.githubusercontent.com/save-the-life/.github/main/profile/architecture.svg)
+
+The 2024 architecture image that used to be here (Internet Computer storage, Motoko backend) is obsolete and has been removed. The diagram above is maintained in the [organization profile](https://github.com/save-the-life).
